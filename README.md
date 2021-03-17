@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+* https://linktr.ee/timotheeplanchais
+* https://www.linkedin.com/in/timotheeplanchais
+
 [![Codersrank widget](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=timmy78&layout=horizontal&width=240&badges=3&branding=false&style=--header-bg-color:%23111;--border-radius:10px;--name-font-size:0.8em;--rank-font-size:0.5em;--bg-color:%23222;--badge-bg-color:%23111;--badge-text-color:%23aaa)](https://profile.codersrank.io/user/timmy78/)
 
 <!--
